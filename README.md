@@ -1,0 +1,1 @@
+Developed a **High-Performance Parser** in **C++** for **NASDAQ ITCH 5.0 binary protocol** to decode and process over **400 million trading messages**, achieving a **throughput** of roughly **297K messages/sec**. Reconstructed **limit order book state** and computed **Volume-Weighted Average Price** across the trading session.
